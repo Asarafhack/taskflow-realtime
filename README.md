@@ -205,3 +205,5 @@ Password: password
 3. **No refresh tokens**: Single JWT for simplicity; production would add refresh token rotation
 4. **Client-side presence**: Presence indicators update via Socket.io; no server-side session persistence
 5. **Single board room**: Each board is a separate socket room; cross-board notifications not implemented
+#   t a s k f l o w - r e a l t i m e  
+ 
